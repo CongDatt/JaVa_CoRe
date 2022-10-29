@@ -25,12 +25,12 @@
 
 
 ## Memory consumption of primitives vs. boxed primitives
-boolean / Boolean => 1 byte / 16 bytes
-byte / Byte => 1 byte / 16 bytes
-short / Short => 2 bytes / 16 bytes
-char / Char => 2 bytes / 16 bytes
-int / Integer => 4 bytes / 16 bytes
-long / Long => 8 bytes / 16 bytes
-float / Float => 4 bytes / 16 bytes
-double / Double => 8 bytes / 16 bytes
+- boolean / Boolean => 1 byte / 16 bytes
+- byte / Byte => 1 byte / 16 bytes
+- short / Short => 2 bytes / 16 bytes
+- char / Char => 2 bytes / 16 bytes
+- int / Integer => 4 bytes / 16 bytes
+- long / Long => 8 bytes / 16 bytes
+- float / Float => 4 bytes / 16 bytes
+- double / Double => 8 bytes / 16 bytes
  
