@@ -21,7 +21,7 @@
             ```
     2. narrowing conversion.
         - ```         double b = 18.94;
-        int c = (int) b;  ```
+            int c = (int) b;  ```
 
 
 ## Memory consumption of primitives vs. boxed primitives
